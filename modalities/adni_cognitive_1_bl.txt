@@ -1,0 +1,6 @@
+CDRSB_bl
+ADAS11_bl
+ADAS13_bl
+MMSE_bl
+RAVLT_bl
+RAVLT_immediate_bl

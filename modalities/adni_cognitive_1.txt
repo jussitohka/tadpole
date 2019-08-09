@@ -1,0 +1,6 @@
+ADAS13
+MMSE
+RAVLT_learning
+RAVLT_immediate
+RAVLT_perc_forgetting
+FAQ
